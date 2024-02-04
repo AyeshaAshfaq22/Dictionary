@@ -15,12 +15,12 @@ The Dictionary project is a comprehensive digital tool designed to provide users
 
 ## DICTIONARY |Setup Instructions
 
+
+  
 1. Clone This Repository
    ```sh
- https://github.com/AyeshaAshfaq22/Dictionary.git
-  
-
-3. Install Dependencies
+   https://github.com/AyeshaAshfaq22/Dictionary.git
+2. Install Dependencies
    ```sh
    npm install 
 
