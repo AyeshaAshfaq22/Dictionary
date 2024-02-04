@@ -28,6 +28,24 @@ The Dictionary project is a comprehensive digital tool designed to provide users
 
 
 ## DICTIONARY  | SnapShots
+### 1.Main Page:
+![image](https://github.com/AyeshaAshfaq22/Dictionary/assets/158320332/bf9acf48-a675-45b5-9b88-adf74a1d8e0b)
+
+### 2.Insert Word:
+![image](https://github.com/AyeshaAshfaq22/Dictionary/assets/158320332/92b2b6c1-6e4f-4f83-b28c-eadf170831b9)
+
+### 3.Word search & Suggestions:
+![image](https://github.com/AyeshaAshfaq22/Dictionary/assets/158320332/a4904303-55db-4444-a992-722fbe3e4bd4)
+
+
+### 4.Update Words Meaning:
+![image](https://github.com/AyeshaAshfaq22/Dictionary/assets/158320332/67296308-84aa-43b0-aacc-7b1928b94a93)
+
+### 5.Delete Word:
+![image](https://github.com/AyeshaAshfaq22/Dictionary/assets/158320332/2dad12c1-e996-423e-81d3-dcc73093b390)
+
+
+
 
 
 
