@@ -14,17 +14,18 @@ The Dictionary project is a comprehensive digital tool designed to provide users
 
 
 ## DICTIONARY |Setup Instructions
+
 1. Clone This Repository
-https://github.com/AyeshaAshfaq22/Dictionary.git
-
-2.Navigate to the Project Directory
-
-cd dictionary
+   ```sh
+ https://github.com/AyeshaAshfaq22/Dictionary.git
+  
 
 3. Install Dependencies
+   ```sh
+   npm install 
 
-   npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## DICTIONARY  | SnapShots
 
